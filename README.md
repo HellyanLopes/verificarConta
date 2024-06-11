@@ -1,6 +1,6 @@
-# Verificador de E-mail Fictício
+# Verificador de E-mail 
 
-Bem-vindo ao Verificador de E-mail Fictício! Este site fornece uma interface simples para inserir endereços de e-mail e simular o envio de um código de verificação.
+Bem-vindo ao Verificador de E-mail! Este site fornece uma interface simples para inserir endereços de e-mail e simular o envio de um código de verificação.
 
 ## Funcionalidades
 
