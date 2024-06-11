@@ -36,6 +36,22 @@ button {
     margin-top: 1rem;
   }
 
+  .email-input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.email-input:focus {
+    border-color: #4CAF50;
+    outline: none;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
 .container {
   background-color: #fff;
   border: 3px #000 solid;
@@ -56,8 +72,8 @@ button {
   caret-color: transparent;
   border-radius: 5px;
   font-size: 75px;
-  height: 120px;
-  width: 100px;
+  height: 100px;
+  width: 80px;
   border: 1px solid #eee;
   margin: 1%;
   text-align: center;
@@ -97,3 +113,4 @@ button {
     max-width: 70px;
   }
 }
+
